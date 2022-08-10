@@ -42,5 +42,5 @@
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
 
 # 📬: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whgusrnr7795@gmail.com)](mailto:whgusrnr7795@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:danielcho5545@naver.com)](mailto:danielcho5545@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwon9184h@gmail.com)](mailto:whgusrnr7795@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kwon9184@naver.com)](mailto:danielcho5545@naver.com)
